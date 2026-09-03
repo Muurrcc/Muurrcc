@@ -4,7 +4,7 @@
 
 <img src="assets/cat-wow.gif" width="220" alt="mood" />
 
-Actualmente reconstruyendo **[ArkKeeper](https://github.com/Muurrcc/ArkKeeper)** — una modernización de ARK Server Manager sobre Avalonia y .NET 10.
+🇪🇸 Spanish · Currently studying
 
 </div>
 
@@ -26,7 +26,3 @@ Actualmente reconstruyendo **[ArkKeeper](https://github.com/Muurrcc/ArkKeeper)**
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muurrcc&hide_border=true" alt="GitHub streak" />
 
 </div>
-
-## Proyectos
-
-- **[ArkKeeper](https://github.com/Muurrcc/ArkKeeper)** — modernización/optimización de ARK Server Manager (Avalonia + .NET 10, GPL-3.0)
