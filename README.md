@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey, I'm Muurrcc 👋
+# Hey, I'm mim 👋
 
 <img src="assets/cat-wow.gif" width="220" alt="mood" />
 
