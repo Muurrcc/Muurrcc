@@ -11,4 +11,8 @@
 </tr>
 </table>
 
+<br>
+
+<img src="assets/cat-wow.gif" width="220" alt="mood" />
+
 </div>
