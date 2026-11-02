@@ -1,68 +1,64 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="460" height="500" viewBox="0 0 460 500">
+<svg xmlns="http://www.w3.org/2000/svg" width="476" height="524" viewBox="0 0 476 524">
 <style>
-.r{font:8.4px ui-monospace,Menlo,monospace;fill:#8b949e;white-space:pre;clip-path:inset(0 100% 0 0);animation:w .9s ease-out forwards}
+.r{font:9.6px ui-monospace,Menlo,monospace;fill:#8b949e;white-space:pre;clip-path:inset(0 100% 0 0);animation:w .9s ease-out forwards}
 @keyframes w{to{clip-path:inset(0 0 0 0)}}
 @media (prefers-reduced-motion:reduce){.r{animation:none;clip-path:none}}
 </style>
-<rect width="460" height="500" rx="10" fill="#0d1117"/>
-<text class="r" x="10" y="18" textLength="440" lengthAdjust="spacing" style="animation-delay:0.00s">                                                               ;i,</text>
-<text class="r" x="10" y="26" textLength="440" lengthAdjust="spacing" style="animation-delay:0.05s">                    ,t,                                      ,..::,</text>
-<text class="r" x="10" y="34" textLength="440" lengthAdjust="spacing" style="animation-delay:0.10s">                   ,1..                                     1.....1</text>
-<text class="r" x="10" y="42" textLength="440" lengthAdjust="spacing" style="animation-delay:0.15s">                   C:..,                                  ,,.......</text>
-<text class="r" x="10" y="50" textLength="440" lengthAdjust="spacing" style="animation-delay:0.20s">                  ,L...:                                 i,.....::,,</text>
-<text class="r" x="10" y="58" textLength="440" lengthAdjust="spacing" style="animation-delay:0.25s">                  Gt....,          ,,,,Li;,;1i.,,;,,  ,;.....,;;i,.1</text>
-<text class="r" x="10" y="66" textLength="440" lengthAdjust="spacing" style="animation-delay:0.30s">                 ,Gf.....   ,,it:;,...;;...,....,,,...........:i:i::</text>
-<text class="r" x="10" y="74" textLength="440" lengthAdjust="spacing" style="animation-delay:0.35s">                 ,G1:....1,t...,t;:...............;,.....i.....:;;;:</text>
-<text class="r" x="10" y="82" textLength="440" lengthAdjust="spacing" style="animation-delay:0.40s">                 ,L,..........,1;.,...............:.,.....:C1...,:;:,</text>
-<text class="r" x="10" y="90" textLength="440" lengthAdjust="spacing" style="animation-delay:0.45s">                 L1,...:1,.....,..;.......................CLi.....,.L</text>
-<text class="r" x="10" y="98" textLength="440" lengthAdjust="spacing" style="animation-delay:0.50s">               ,Li.....,iL,...........,..................CLCCLfi:...,,</text>
-<text class="r" x="10" y="106" textLength="440" lengthAdjust="spacing" style="animation-delay:0.55s">              ,t:.......:tLi;i,i.....:;....:......::1ttLt1:.....:1i..,,</text>
-<text class="r" x="10" y="114" textLength="440" lengthAdjust="spacing" style="animation-delay:0.60s">             ,1;............,fGGt....:.,...:,....:CGLL,...........:1:,,,</text>
-<text class="r" x="10" y="122" textLength="440" lengthAdjust="spacing" style="animation-delay:0.65s">            Ct1;..............;08t...,:....,,,...G80:...............:...,</text>
-<text class="r" x="10" y="130" textLength="440" lengthAdjust="spacing" style="animation-delay:0.70s">          ,tii:................L@8..::::....:::.C0G:.........,...........1,</text>
-<text class="r" x="10" y="138" textLength="440" lengthAdjust="spacing" style="animation-delay:0.75s">        ,;......................G0tt:;:;i.:,.;tfG01.................0G.....,</text>
-<text class="r" x="10" y="146" textLength="440" lengthAdjust="spacing" style="animation-delay:0.80s">       ,,...t0:.................:Cf;;1;Li,;;,,:;i:................:CC:......;</text>
-<text class="r" x="10" y="154" textLength="440" lengthAdjust="spacing" style="animation-delay:0.85s">      t,..,1C@C..................iiittf0LL;,.,t1.......:,,,:,;;ii;,...........,</text>
-<text class="r" x="10" y="162" textLength="440" lengthAdjust="spacing" style="animation-delay:0.90s">     ,:......;f0t,.........i,.....,Cf:i1i1i:..iGf.....,,:.....................,,,</text>
-<text class="r" x="10" y="170" textLength="440" lengthAdjust="spacing" style="animation-delay:0.95s">     1...........,;ftttGG08L......;............00,....................,,.......,,</text>
-<text class="r" x="10" y="178" textLength="440" lengthAdjust="spacing" style="animation-delay:1.00s">    ,,.......................,........:...t;....0000C;..........,:......;i:.....,</text>
-<text class="r" x="10" y="186" textLength="440" lengthAdjust="spacing" style="animation-delay:1.05s">    t..........................;;......;.:1.....i00Li,......,,i1f11LL1,..;;.....i,</text>
-<text class="r" x="10" y="194" textLength="440" lengthAdjust="spacing" style="animation-delay:1.10s">   ,;........................,tLC1.....:..,...:GGCf.......,.:;;1ffft;;,....,....:</text>
-<text class="r" x="10" y="202" textLength="440" lengthAdjust="spacing" style="animation-delay:1.15s">   ,....;,.....................fG@@0:........i080G:..........ifLti,........1;...,,</text>
-<text class="r" x="10" y="210" textLength="440" lengthAdjust="spacing" style="animation-delay:1.20s">   t...:;tf;.........,......,iL08@@88i.......fCCGGt1,....,.,,::ii1tfLffLi1111:...,</text>
-<text class="r" x="10" y="218" textLength="440" lengthAdjust="spacing" style="animation-delay:1.25s">  ,;...;;;.........::.,.,,i00Li1G8@0GGL,....;1LGCCCC0Ct;;.....:;1::;.......,,:...,,</text>
-<text class="r" x="10" y="226" textLength="440" lengthAdjust="spacing" style="animation-delay:1.30s">  ,....::.....,;i;::.,......1;tG888GGt1:......:.,:,i:,.,;1::.,:ttti,.............1</text>
-<text class="r" x="10" y="234" textLength="440" lengthAdjust="spacing" style="animation-delay:1.35s">  C,..i:...........,:,....i0G08088tttt1;,........,;iifftCff;....;;i;,............i,</text>
-<text class="r" x="10" y="242" textLength="440" lengthAdjust="spacing" style="animation-delay:1.40s"> ,1.........:i:;::,iti....;1LCt1fGLLL11:............,..;i1f1;............,.......,</text>
-<text class="r" x="10" y="250" textLength="440" lengthAdjust="spacing" style="animation-delay:1.45s"> ,.............,;;tt;,....:LGGGCCCff1;..........................,.................,</text>
-<text class="r" x="10" y="258" textLength="440" lengthAdjust="spacing" style="animation-delay:1.50s"> L..........,;i,...::;....;1tii1tLf;............................,:;i:.............,</text>
-<text class="r" x="10" y="266" textLength="440" lengthAdjust="spacing" style="animation-delay:1.55s"> ;...............,;ii:.....::i1;;i...........,,,...............;:;.,.,,...........1</text>
-<text class="r" x="10" y="274" textLength="440" lengthAdjust="spacing" style="animation-delay:1.60s"> ;..............,,.:;;:.....,:,:.....11:....:i1..............:i:;::....,;,.:,.....</text>
-<text class="r" x="10" y="282" textLength="440" lengthAdjust="spacing" style="animation-delay:1.65s">,............,.....;1:;:.............LGft;i1tft........,i111;1111tt11;;:i1i......1</text>
-<text class="r" x="10" y="290" textLength="440" lengthAdjust="spacing" style="animation-delay:1.70s">,.................::;tfti.............0GGtiii;t1;::ifCC008880C1ii11;............,,</text>
-<text class="r" x="10" y="298" textLength="440" lengthAdjust="spacing" style="animation-delay:1.75s">,i................,:;LGGC;,...,...........:::;tfLCC08@@88@@@8Lt:................,</text>
-<text class="r" x="10" y="306" textLength="440" lengthAdjust="spacing" style="animation-delay:1.80s"> ,;...............:1G8080CL1:;;,,,............;L88GG08@80@@@01.................i</text>
-<text class="r" x="10" y="314" textLength="440" lengthAdjust="spacing" style="animation-delay:1.85s">  ,:.............:;C08@80GCftiiiii;,,.,....,;,i:tG080800@@@8t,.................,</text>
-<text class="r" x="10" y="322" textLength="440" lengthAdjust="spacing" style="animation-delay:1.90s">   ,:...........iL00GfCCLCLftt1i1ti;;:;,.,:,,if1;fG0Lt1G8@@@0ti,...........,:..</text>
-<text class="r" x="10" y="330" textLength="440" lengthAdjust="spacing" style="animation-delay:1.95s">     i........:;1LCGGGCffft11111111ffft:,;,.,;;ttt;,:fCGG0G0GLi;,.........:....,</text>
-<text class="r" x="10" y="338" textLength="440" lengthAdjust="spacing" style="animation-delay:2.00s">      ;......,fLLCL0ffffLt1iiii;;;;i1tfi:i:,ii1;.,.,;1t1;11tCCfti.......:......,</text>
-<text class="r" x="10" y="346" textLength="440" lengthAdjust="spacing" style="animation-delay:2.05s">      ,......;1ifCGCLLLft1i;;;:;:::;;;;::;:,:,,,,.,,::,::;:ii1tLGCi;,ii,.....i,1</text>
-<text class="r" x="10" y="354" textLength="440" lengthAdjust="spacing" style="animation-delay:2.10s">      ,;,.:::;11ttt1i11iii;;;;:::::::;;;;:,...,,,::::;;;;,.,:;ifLfii1;......;t;.</text>
-<text class="r" x="10" y="362" textLength="440" lengthAdjust="spacing" style="animation-delay:2.15s">      t1ti;i111i1ii;;i;;;:::,::::::::;;;;;:,,,,::::;;:;::,:;;,.,;1ttt;i1itLCCCt.,</text>
-<text class="r" x="10" y="370" textLength="440" lengthAdjust="spacing" style="animation-delay:2.20s">     ,iffLttt11ii;;;;:::::,::::,,,,::.,:;:,::,,:..,:,..:.....,;:,:i11tiiitLLGGLt,,</text>
-<text class="r" x="10" y="378" textLength="440" lengthAdjust="spacing" style="animation-delay:2.25s">     1tLLLftt11ii;;:;;;;;::::::,,,,:,::,,...,...,,.,,,.,:,...,,.,;;;:::itLG080CLi:,</text>
-<text class="r" x="10" y="386" textLength="440" lengthAdjust="spacing" style="animation-delay:2.30s">    ,;fLCLLfttt11i;;;;;;;:::;::,,:,:,:,,,,,,,,,,..,,,,,,:;:::;;i;i1ttfLCG088800Cf::</text>
-<text class="r" x="10" y="394" textLength="440" lengthAdjust="spacing" style="animation-delay:2.35s">    tifLLLCLfttttt1111iiiiii;;::;:::,,,,.,,,:,,::...::,.;i;;;ii11tfLCGGG00@888GCf1.:</text>
-<text class="r" x="10" y="402" textLength="440" lengthAdjust="spacing" style="animation-delay:2.40s">    ;;1ffLLLLLft11iiiiiiiii;;;:;:;;;;:;;;;;:::::,....,::,,::itffffLLLLLCG00GG00GL1..i</text>
-<text class="r" x="10" y="410" textLength="440" lengthAdjust="spacing" style="animation-delay:2.45s">   t,;iiLCCLLLLfft1iii1iiiiiiii1i;;:;;:.:,............;:,:;1tffLLLCGGGGCLCCG00CLLt,..</text>
-<text class="r" x="10" y="418" textLength="440" lengthAdjust="spacing" style="animation-delay:2.50s">  ,....,tCG0GGLLLftt11i1tttt111tt11ii;;;::::;;::;.,....;iiti1fLLCCGCGCLCGGG0000GLf:..,</text>
-<text class="r" x="10" y="426" textLength="440" lengthAdjust="spacing" style="animation-delay:2.55s">  1....:1tLGG00GCCCCCLLffttttti;ii;;:.:;;;;,..::1:,....,::iiLtftLCfCGGCGG000880GCt...;</text>
-<text class="r" x="10" y="434" textLength="440" lengthAdjust="spacing" style="animation-delay:2.60s"> ,.....,10@80880G0GGGCLft11tttfLfftttf11;,:;:;i1;i1:i::,t1ti;itLLfLCGGGG00080CCGCt,..,</text>
-<text class="r" x="10" y="442" textLength="440" lengthAdjust="spacing" style="animation-delay:2.65s"> ,.....iG8000880GG0GCCCLCCffttttfttiitfft11i:;;,,;11f;;,;f;1tffLG0GCGGG000GGG080L:....</text>
-<text class="r" x="10" y="450" textLength="440" lengthAdjust="spacing" style="animation-delay:2.70s"> ,....:fLC0GLCLLLLGCLLLLLffftiii1tfLf1ii:,,:i:i;:;;:;:i;;tLtfCf1tLGGfCCLLG00080Lt,....,</text>
-<text class="r" x="10" y="458" textLength="440" lengthAdjust="spacing" style="animation-delay:2.75s"> 1....tt1f11i1CG0GCCGCLffffLfft1iii1i;::;;itiii;,:1i;;1;ii1fitLLftfffLLfG00CLffi,......</text>
-<text class="r" x="10" y="466" textLength="440" lengthAdjust="spacing" style="animation-delay:2.80s"> i....1:,...,;fLfLfCGCLCLft1;:;;i;;;;tfLfftt1::i:i;i:tff;;:it1tffCfttLC0GG8@8L1:.......</text>
-<text class="r" x="10" y="474" textLength="440" lengthAdjust="spacing" style="animation-delay:2.85s"> 1..........,;::1LfftfftffLft111t1111::;::,::i:,::i::11Lii111ffffftCCCCG08800CL;......,</text>
-<text class="r" x="10" y="482" textLength="440" lengthAdjust="spacing" style="animation-delay:2.90s"> ;.............:ii;;ii1fGGCLfti;;ii11ttt11i;;i:i;,ft1i1;Li111tGLLCGCftCLLGGCLLt:.......</text>
-<text class="r" x="10" y="490" textLength="440" lengthAdjust="spacing" style="animation-delay:2.95s"> i...................:tLft1ii;fLCCCftLCC1i11ittftiCLttfi11Ctift1tL0CfCLCfLCfi1i........</text>
+<rect width="476" height="524" rx="10" fill="#0d1117"/>
+<text class="r" x="10" y="19" textLength="456" lengthAdjust="spacing" style="animation-delay:0.00s">                                                      .#.</text>
+<text class="r" x="10" y="28" textLength="456" lengthAdjust="spacing" style="animation-delay:0.05s">                 .@.                                 #+**.</text>
+<text class="r" x="10" y="37" textLength="456" lengthAdjust="spacing" style="animation-delay:0.10s">                 @++                               .+:==+@</text>
+<text class="r" x="10" y="46" textLength="456" lengthAdjust="spacing" style="animation-delay:0.15s">                .#--.                             @+-=:--+</text>
+<text class="r" x="10" y="55" textLength="456" lengthAdjust="spacing" style="animation-delay:0.20s">                @*::#               ..  ..      .*+==+*##+.</text>
+<text class="r" x="10" y="64" textLength="456" lengthAdjust="spacing" style="animation-delay:0.25s">               .@+---.     ...@#%##--#--=++#%.#:.:--++##%*.</text>
+<text class="r" x="10" y="73" textLength="456" lengthAdjust="spacing" style="animation-delay:0.30s">               @@#+-:# .@+=#%%+:--=:.-++:.=#*.:-==::=*+*#*%</text>
+<text class="r" x="10" y="82" textLength="456" lengthAdjust="spacing" style="animation-delay:0.35s">               @%+=--+*+=.-%*+-:......::.-=*+=..:++%+-****#</text>
+<text class="r" x="10" y="91" textLength="456" lengthAdjust="spacing" style="animation-delay:0.40s">               @%+--#*-...*%*+#+:.....---.+*+*....@@#+-+%*=</text>
+<text class="r" x="10" y="100" textLength="456" lengthAdjust="spacing" style="animation-delay:0.45s">              @#+---+%*...=-.-:=-=-.:.---:-:::...#@@%%*+-=+.</text>
+<text class="r" x="10" y="109" textLength="456" lengthAdjust="spacing" style="animation-delay:0.50s">            .@#===*+*@@#+*=+-...**=--*=-:.:=+##%%@@%#**##*+=.</text>
+<text class="r" x="10" y="118" textLength="456" lengthAdjust="spacing" style="animation-delay:0.55s">           .%#=-.......=#@@@*..-#+*--#+-:.=@@@@+-.......=##*+.</text>
+<text class="r" x="10" y="127" textLength="456" lengthAdjust="spacing" style="animation-delay:0.60s">          .@%#:...........@@@-.=**+-=+**-:@@@*............**++.</text>
+<text class="r" x="10" y="136" textLength="456" lengthAdjust="spacing" style="animation-delay:0.65s">         @%##+.....:.......@@@-**#*+-+***#@@*....:..#=.....=:--@</text>
+<text class="r" x="10" y="145" textLength="456" lengthAdjust="spacing" style="animation-delay:0.70s">       .*=-=+.::......::...%@@@####***+#@@@@.............:+@%-..-.</text>
+<text class="r" x="10" y="154" textLength="456" lengthAdjust="spacing" style="animation-delay:0.75s">      @+.-%@*.-...........::@@%#%%@##****%*:............-#@%-:...:.</text>
+<text class="r" x="10" y="163" textLength="456" lengthAdjust="spacing" style="animation-delay:0.80s">     @+.=#@@@............-:.*#%@@@@@@*=*@#:..:.*###**#%#*=......:.:%.</text>
+<text class="r" x="10" y="172" textLength="456" lengthAdjust="spacing" style="animation-delay:0.85s">    .*:.:-=-*@@%+:...-#@%=---=@#-*+***--@@-..:=*+-:.-==-:..==::...-+%.</text>
+<text class="r" x="10" y="181" textLength="456" lengthAdjust="spacing" style="animation-delay:0.90s">    @+.-::.:.---*+%#@@@%=+=:.*-.....-*-.-@@+#*=....:.:==-:-.:-++*-=-+.</text>
+<text class="r" x="10" y="190" textLength="456" lengthAdjust="spacing" style="animation-delay:0.95s">   .#:.:......----....:==+-=*....*+-@+...=@@@@*:..-:=-+%*+=+*****:.:=.</text>
+<text class="r" x="10" y="199" textLength="456" lengthAdjust="spacing" style="animation-delay:1.00s">   .=..-:=-:.--:.....--=-=#@*....:*:*....#@@-:...:=##%@@@@@%+--+#*:.=#</text>
+<text class="r" x="10" y="208" textLength="456" lengthAdjust="spacing" style="animation-delay:1.05s">   @:.-*=...:-......--.:+*%@@@@-..-.:..#@@@@%+=+-:..=*@@@**+:...-#-.:+.</text>
+<text class="r" x="10" y="217" textLength="456" lengthAdjust="spacing" style="animation-delay:1.10s">  .*..+#%#+......:-=:...-=#@@@@@=.....-@@@@*-.....:=*%@@%##*#%@%%%#::+.</text>
+<text class="r" x="10" y="226" textLength="456" lengthAdjust="spacing" style="animation-delay:1.15s">  .=..###+.....=*#*+==+@@@@@@@@@@#:...*@@@@@@@@@%*-:-+#%##%###=++##=:-.</text>
+<text class="r" x="10" y="235" textLength="456" lengthAdjust="spacing" style="animation-delay:1.20s">  @:.=#*+...-*%%#**=-.-*@##@@@@@@%*-.:=#*+#*%#*-+*+*##@@@@#++:...-++:-.</text>
+<text class="r" x="10" y="244" textLength="456" lengthAdjust="spacing" style="animation-delay:1.25s">  %-:##=..-+*+=-+*+---*@@@@@@@@@%%*:..:=+**#%@@@@@@#=-+###*=--:...:.:-@</text>
+<text class="r" x="10" y="253" textLength="456" lengthAdjust="spacing" style="animation-delay:1.30s"> .+.-=....+#*###*%%+=-*@@@@@@@@@%%=.....:===+++*%@@%*===+=--:.-=:..:.:#</text>
+<text class="r" x="10" y="262" textLength="456" lengthAdjust="spacing" style="animation-delay:1.35s"> @::+:...:===*#%@%+-.:+@@@@@@@@%*............:::--:..-=+==+-...:-.....+.</text>
+<text class="r" x="10" y="271" textLength="456" lengthAdjust="spacing" style="animation-delay:1.40s"> %.=-...:=+##+++**#+==*%@#%%@@%=......................=+###*+:--:...::=.</text>
+<text class="r" x="10" y="280" textLength="456" lengthAdjust="spacing" style="animation-delay:1.45s"> +.=-...-+*=::+##%*-:..*#%%#%-.---:...-=+:..........:=*##++=++-=*+=-..=.</text>
+<text class="r" x="10" y="289" textLength="456" lengthAdjust="spacing" style="animation-delay:1.50s">.+==:......:-=+=+%#*-..-+++=...-@%*=-=#%#.........-=+#%#**+*+*%#+*+=:.*</text>
+<text class="r" x="10" y="298" textLength="456" lengthAdjust="spacing" style="animation-delay:1.55s">@........:==...-#%##*=:.........@@@@%@@@%----**#@@@@@@@@@@@%+****-...-.</text>
+<text class="r" x="10" y="307" textLength="456" lengthAdjust="spacing" style="animation-delay:1.60s">.=....--==-:-:=*+#@@@#=:........:@@@#*##@%@%@@@@@@@@@@#*+*=:.........*</text>
+<text class="r" x="10" y="316" textLength="456" lengthAdjust="spacing" style="animation-delay:1.65s"> %=....-..-=-=--#%@@@@%*=++:.....::-===*@@@@@@@@@@@@@%*=:.........--=.</text>
+<text class="r" x="10" y="325" textLength="456" lengthAdjust="spacing" style="animation-delay:1.70s"> .#=:---:...:.-+%@@@@@@@%###**+-=---=+++#@@@@@@@@@@@%=:........:--==@</text>
+<text class="r" x="10" y="334" textLength="456" lengthAdjust="spacing" style="animation-delay:1.75s">  .*==-::..--+#@@@@@@@@@@%#%%%***#++*+##@#@@@@@@@@@@@#=:........:++-.</text>
+<text class="r" x="10" y="343" textLength="456" lengthAdjust="spacing" style="animation-delay:1.80s">   .*::====-=#@@@@@@@@@@%@%%%%@@%#+**++%%%%@%#@@@@@@@@*+=:.:::-=**=-.</text>
+<text class="r" x="10" y="352" textLength="456" lengthAdjust="spacing" style="animation-delay:1.85s">     +:.:--=%@@@@@@@@@%%%#####%@@@##**##%#*+*#@@@@@@@@@#=-+===*+=..=@</text>
+<text class="r" x="10" y="361" textLength="456" lengthAdjust="spacing" style="animation-delay:1.90s">     .:..:-*@%@@@@@@@@%##******###*#**#*+===+**++#*%%@@@@#*+#*+-.:=*#</text>
+<text class="r" x="10" y="370" textLength="456" lengthAdjust="spacing" style="animation-delay:1.95s">     .*==+**%%@@@%%%###****++*******==--=+++++***++**#@@@%%%#-:..-#%+</text>
+<text class="r" x="10" y="379" textLength="456" lengthAdjust="spacing" style="animation-delay:2.00s">     @%%###%%%%######*+++++**+******++==++++#****+*#*++#@@%%#%%%@@@@+.</text>
+<text class="r" x="10" y="388" textLength="456" lengthAdjust="spacing" style="animation-delay:2.05s">     %@@@@@%%###***++++++++++++*=***+++=+===++=++=--=****#%@%%%@@@@@@*.</text>
+<text class="r" x="10" y="397" textLength="456" lengthAdjust="spacing" style="animation-delay:2.10s">    @@@@@@@%%###******++++++++++++=---=--=====+=++--=++=*###*#@@@@@@@%#</text>
+<text class="r" x="10" y="406" textLength="456" lengthAdjust="spacing" style="animation-delay:2.15s">    #@@@@@@@@%%######*****++++++++===+=+==-=++=++**+**###%@@@@@@@@@@@@+%</text>
+<text class="r" x="10" y="415" textLength="456" lengthAdjust="spacing" style="animation-delay:2.20s">   .*@@@@@@@@%%%%%%%#####******+++++++*+**=-=++=*####%%%@@@@@@@@@@@@@@%-.</text>
+<text class="r" x="10" y="424" textLength="456" lengthAdjust="spacing" style="animation-delay:2.25s">   %*#@@@@@@@@%##%#######******#**#**+++++-.==+**+**%@@@@@@@@@@@@@@@@@#-..</text>
+<text class="r" x="10" y="433" textLength="456" lengthAdjust="spacing" style="animation-delay:2.30s">  .==*%@@@@@@@@@%%#%%%%%%%%%%#*##*+*++=====---=#**##@@@@@@@@@@@@@@@@@@%=..</text>
+<text class="r" x="10" y="442" textLength="456" lengthAdjust="spacing" style="animation-delay:2.35s">  #::-*@@@@@@@@@@@@%@@%@%%%%%%#**#*####**#**++=+##%@@@@@@@@@@@@@@@@@@@@+.+</text>
+<text class="r" x="10" y="451" textLength="456" lengthAdjust="spacing" style="animation-delay:2.40s"> .::--=#@@@@@@@@@@@@@@@@@@%%%%%%#*##*+=**%%*=+++##%#%@@@@@@@@@@@@@@@@@%=.-</text>
+<text class="r" x="10" y="460" textLength="456" lengthAdjust="spacing" style="animation-delay:2.45s"> #..:-#@@@@@@@@@@@@@@@@@@@@@@%%%@@@%%%#%%##%%@#*%@%%@%@@@@@@@@@@@@@@@@#-...</text>
+<text class="r" x="10" y="469" textLength="456" lengthAdjust="spacing" style="animation-delay:2.50s"> #...-%@@@@@@@@@@@@@@@@@%##%@@@@@%%**##*#*##%%###@@@@@@@@@@@@@@@@@@@@@+....</text>
+<text class="r" x="10" y="478" textLength="456" lengthAdjust="spacing" style="animation-delay:2.55s"> *..=@@@@@@%@@@@@@@@@@@@@@@%%%%%#*#**%##%*#%*%###%@@@@@%@@@@@@@@@@@@@*-:..:</text>
+<text class="r" x="10" y="487" textLength="456" lengthAdjust="spacing" style="animation-delay:2.60s"> *..-%##++*#@@@@@@@@@@@@%%###*##%@@@@@@####%%*@@%#*@%%@@@@%@@@@@@@@@#=......</text>
+<text class="r" x="10" y="496" textLength="456" lengthAdjust="spacing" style="animation-delay:2.65s"> +.....--=+###@@@@@@@@@@%#%%%%%%##*#***%**##*#@@@#%%@@@@@@@@@@@@@@@@#=:....</text>
+<text class="r" x="10" y="505" textLength="456" lengthAdjust="spacing" style="animation-delay:2.70s"> +.........-+#@##%%%@@@@@@%##%%%%@%%######*%@@##@%@@@@@@@@@@@@@@@@@@#=......</text>
+<text class="r" x="10" y="514" textLength="456" lengthAdjust="spacing" style="animation-delay:2.75s"> +..........--==++#@@@%%##@@@@@@@@@#%%%@%@%@@@%@%%@%%@%@@@@@@@@@@@%%++=-....</text>
 </svg>

@@ -3,8 +3,8 @@ import cv2, numpy as np
 from PIL import Image, ImageDraw, ImageFont
 
 SRC, OUT = "assets/cat.webp", "assets/portrait.svg"
-COLS, CW, LH, FS = 88, 5, 8, 8.4
-RAMP = " .,:;i1tfLCG08@"
+COLS, CW, LH, FS = 76, 6, 9, 9.6
+RAMP = " .:-=+*#%@"
 
 im = Image.open(SRC).convert("RGBA")
 a = np.asarray(im)[..., 3]
@@ -23,10 +23,10 @@ sm = lambda m: cv2.resize(m, (COLS, rows), interpolation=cv2.INTER_AREA).astype(
 g, f = sm(gray), sm(a)
 # bright = dense, like the photo seen on a dark page; pure white fur stays readable via a floor
 lo, hi = np.percentile(g[f > 0.5], [3, 97])
-lum = np.clip((g - lo) / (hi - lo), 0, 1) ** 1.9
+lum = np.clip((g - lo) / (hi - lo), 0, 1) ** 0.85
 e = sm(cv2.Canny(cv2.resize(gray, (COLS * 4, rows * 4)).astype(np.uint8), 60, 160) if False else cv2.resize(cv2.Canny(gray, 60, 160), (COLS, rows), interpolation=cv2.INTER_AREA))
-lum = np.clip(lum - e * 0.9, 0, 1)  # edges (eyes, nose, mouth, ear rims) cut dark lines into the fur
-v = np.where(f > 0.5, np.maximum(lum, 0.1), np.where(f > 0.12, 0.2, 0.0))
+lum = np.clip((lum - 0.45) * 1.7 + 0.5 - e * 0.8, 0, 1)  # edges (eyes, nose, mouth, ear rims) cut dark lines into the fur
+v = np.where(f > 0.5, np.maximum(lum, 0.12), np.where(f > 0.12, 0.2, 0.0))
 
 W, H = COLS * CW + 20, rows * LH + 20
 lines = []
@@ -46,7 +46,7 @@ svg = f'''<svg xmlns="http://www.w3.org/2000/svg" width="{W}" height="{H}" viewB
 </svg>'''
 open(OUT, "w").write(svg)
 
-S = 1  # static PNG preview
+S = 2  # static PNG preview
 pv = Image.new("RGB", (W * S, H * S), "#0d1117"); d = ImageDraw.Draw(pv)
 font = ImageFont.truetype("/System/Library/Fonts/Menlo.ttc", int(FS * S))
 for r in range(rows):
