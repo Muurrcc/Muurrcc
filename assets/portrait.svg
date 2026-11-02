@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="370" height="508" viewBox="0 0 370 508">
+<style>
+.r{font:8px ui-monospace,Menlo,monospace;fill:#8b949e;white-space:pre;clip-path:inset(0 100% 0 0);animation:w .9s ease-out forwards}
+@keyframes w{to{clip-path:inset(0 0 0 0)}}
+@media (prefers-reduced-motion:reduce){.r{animation:none;clip-path:none}}
+</style>
+<rect width="370" height="508" rx="10" fill="#0d1117"/>
+<text class="r" x="10" y="18" textLength="350" lengthAdjust="spacing" style="animation-delay:0.00s"></text>
+<text class="r" x="10" y="26" textLength="350" lengthAdjust="spacing" style="animation-delay:0.05s">                                                  ....</text>
+<text class="r" x="10" y="34" textLength="350" lengthAdjust="spacing" style="animation-delay:0.10s">                                         .......::-==-:::...</text>
+<text class="r" x="10" y="42" textLength="350" lengthAdjust="spacing" style="animation-delay:0.15s">                                      ...:::::::::=++=---:::::.</text>
+<text class="r" x="10" y="50" textLength="350" lengthAdjust="spacing" style="animation-delay:0.20s">                                   ..:=+-..::::----++=--------:::.</text>
+<text class="r" x="10" y="58" textLength="350" lengthAdjust="spacing" style="animation-delay:0.25s">                                .:::--=+: ..:::----+*-----------:::.</text>
+<text class="r" x="10" y="66" textLength="350" lengthAdjust="spacing" style="animation-delay:0.30s">                               .:---:..:=*#**+-::--+*------------:::..</text>
+<text class="r" x="10" y="74" textLength="350" lengthAdjust="spacing" style="animation-delay:0.35s">                              .:---: :+%%######=:::-+=------------::::</text>
+<text class="r" x="10" y="82" textLength="350" lengthAdjust="spacing" style="animation-delay:0.40s">                              .::::..+%@***-+*+=:-===-----------------</text>
+<text class="r" x="10" y="90" textLength="350" lengthAdjust="spacing" style="animation-delay:0.45s">                              .::::-=++++=======+++=-:::-:------------</text>
+<text class="r" x="10" y="98" textLength="350" lengthAdjust="spacing" style="animation-delay:0.50s">                             .::--::=========+*++=--::::--------------</text>
+<text class="r" x="10" y="106" textLength="350" lengthAdjust="spacing" style="animation-delay:0.55s">                           .:==::-: :-==++-:.::::-::..:-:::-----------</text>
+<text class="r" x="10" y="114" textLength="350" lengthAdjust="spacing" style="animation-delay:0.60s">                      ...:==---:=*+: .:==-::.......:..::::::::--------</text>
+<text class="r" x="10" y="122" textLength="350" lengthAdjust="spacing" style="animation-delay:0.65s">              ..::-----:.-*#*---#%=: .-----::::.:..::-::-----:--------</text>
+<text class="r" x="10" y="130" textLength="350" lengthAdjust="spacing" style="animation-delay:0.70s">           .:-==+=++++-.  .-===+#=...:----::::::::-=+*=:--------------</text>
+<text class="r" x="10" y="138" textLength="350" lengthAdjust="spacing" style="animation-delay:0.75s">          :-=====-===:.     .--++:.....::.::::::::-==++--------------:</text>
+<text class="r" x="10" y="146" textLength="350" lengthAdjust="spacing" style="animation-delay:0.80s">         .-====-=----:..     .:==::::......:------==--==-----------:::</text>
+<text class="r" x="10" y="154" textLength="350" lengthAdjust="spacing" style="animation-delay:0.85s">         :==++---:---:.......:-#%#*=--:::-----::-------===---------:..</text>
+<text class="r" x="10" y="162" textLength="350" lengthAdjust="spacing" style="animation-delay:0.90s">         :==----::-=-::.::.:-*%%%#*+*%%%%@%+--::------==++=-------:.</text>
+<text class="r" x="10" y="170" textLength="350" lengthAdjust="spacing" style="animation-delay:0.95s">         :--==--::--=--:--=++*##*+==#@@%#*-:::::::-----++=-------:.</text>
+<text class="r" x="10" y="178" textLength="350" lengthAdjust="spacing" style="animation-delay:1.00s">        :=====------=====*%%+=======+*=-::...::::--=+++==--------:.</text>
+<text class="r" x="10" y="186" textLength="350" lengthAdjust="spacing" style="animation-delay:1.05s">        :=++====--::--=+*%@@%*+====--::......:-=+***+==---------:.</text>
+<text class="r" x="10" y="194" textLength="350" lengthAdjust="spacing" style="animation-delay:1.10s">        :--------:::::--=+******++=-:..... ..:--====-::-::------.</text>
+<text class="r" x="10" y="202" textLength="350" lengthAdjust="spacing" style="animation-delay:1.15s">        ::::---::::::::---====+==--:::........:------:::..:----:</text>
+<text class="r" x="10" y="210" textLength="350" lengthAdjust="spacing" style="animation-delay:1.20s">         :---::::::::::----=====----::::.......:::----:.  .---:.</text>
+<text class="r" x="10" y="218" textLength="350" lengthAdjust="spacing" style="animation-delay:1.25s">          .::::::::---------------------:::.....::---:.   .:--:</text>
+<text class="r" x="10" y="226" textLength="350" lengthAdjust="spacing" style="animation-delay:1.30s">          ..:::::::---------------------::::::::::::..     :--:.</text>
+<text class="r" x="10" y="234" textLength="350" lengthAdjust="spacing" style="animation-delay:1.35s">          ..:::::::--------------------::::::..:.....      :--:.</text>
+<text class="r" x="10" y="242" textLength="350" lengthAdjust="spacing" style="animation-delay:1.40s">         ....:::::::-------------------::::........        .:--:</text>
+<text class="r" x="10" y="250" textLength="350" lengthAdjust="spacing" style="animation-delay:1.45s">        ::....::::::::::::::--::-:::::::.......             :--:</text>
+<text class="r" x="10" y="258" textLength="350" lengthAdjust="spacing" style="animation-delay:1.50s">       :--:........:::::::::::::::...........              :==-:.</text>
+<text class="r" x="10" y="266" textLength="350" lengthAdjust="spacing" style="animation-delay:1.55s">       -==:.............................                  :=+=-:.</text>
+<text class="r" x="10" y="274" textLength="350" lengthAdjust="spacing" style="animation-delay:1.60s">       =+-............................                   .-+++=:.</text>
+<text class="r" x="10" y="282" textLength="350" lengthAdjust="spacing" style="animation-delay:1.65s">       =*=-++=-::::................                     .-+++==-.</text>
+<text class="r" x="10" y="290" textLength="350" lengthAdjust="spacing" style="animation-delay:1.70s">       =+++*##*=-:---:..............                    :=+===--.</text>
+<text class="r" x="10" y="298" textLength="350" lengthAdjust="spacing" style="animation-delay:1.75s">       -=+++***++=-:::::....    .....                 .:=======-.</text>
+<text class="r" x="10" y="306" textLength="350" lengthAdjust="spacing" style="animation-delay:1.80s">       ===++====++=-::::::.... ..                    .-========-.</text>
+<text class="r" x="10" y="314" textLength="350" lengthAdjust="spacing" style="animation-delay:1.85s">       -+=++====++++-:::........                     :--=+*++==.</text>
+<text class="r" x="10" y="322" textLength="350" lengthAdjust="spacing" style="animation-delay:1.90s">       =***+====++=**=--:::....                    ..-=+*##*++=.</text>
+<text class="r" x="10" y="330" textLength="350" lengthAdjust="spacing" style="animation-delay:1.95s">       +###**###**==++=:::::..                   ..-=+*###**+++:</text>
+<text class="r" x="10" y="338" textLength="350" lengthAdjust="spacing" style="animation-delay:2.00s">      :*###%%%%%%%*+**=--.....                  .:-+****++*++++-.</text>
+<text class="r" x="10" y="346" textLength="350" lengthAdjust="spacing" style="animation-delay:2.05s">     :=*#%%%%%%%@%##%#*+-:.....                ..:=====++***+**=.</text>
+<text class="r" x="10" y="354" textLength="350" lengthAdjust="spacing" style="animation-delay:2.10s">    .-+*##%%%%#*#%%@%###=:.......              .:---===+***++**+-.</text>
+<text class="r" x="10" y="362" textLength="350" lengthAdjust="spacing" style="animation-delay:2.15s">    :=+*#######*****#%%*+-::.. .:.            ..::-+===++++++***=:</text>
+<text class="r" x="10" y="370" textLength="350" lengthAdjust="spacing" style="animation-delay:2.20s">    :=*##*****###+++**+**+---:::-:...         ...:=+===++**+*##+-.</text>
+<text class="r" x="10" y="378" textLength="350" lengthAdjust="spacing" style="animation-delay:2.25s">    :=*#########%#****++#*+*+==+=-:..         ..:-=+++*********+-.</text>
+<text class="r" x="10" y="386" textLength="350" lengthAdjust="spacing" style="animation-delay:2.30s">    -+*######%%%%%#*****#####***+=:.        .:-+****+*****###**+=.</text>
+<text class="r" x="10" y="394" textLength="350" lengthAdjust="spacing" style="animation-delay:2.35s">    -+*#######%%%%##++*##%%%%#*++=:.......:-=+####*++====+**####+:</text>
+<text class="r" x="10" y="402" textLength="350" lengthAdjust="spacing" style="animation-delay:2.40s">   .-*##%%%%#***####**#%%@@@%%**+=::...:-=*******++=====+++**###+:</text>
+<text class="r" x="10" y="410" textLength="350" lengthAdjust="spacing" style="animation-delay:2.45s">   .=+**######***####**%%@@@@%***=-::.:-+*****+++++===+++**####*+:</text>
+<text class="r" x="10" y="418" textLength="350" lengthAdjust="spacing" style="animation-delay:2.50s">   .=+******######%####%%%%@%*****+----=+*++*+=+**+==+**##%%%%%#+-</text>
+<text class="r" x="10" y="426" textLength="350" lengthAdjust="spacing" style="animation-delay:2.55s">   .=*####*******+*#%%%%%%%%#+*****+=--=**++*++###*++*#%%@@@@@%%*-</text>
+<text class="r" x="10" y="434" textLength="350" lengthAdjust="spacing" style="animation-delay:2.60s">   :=*#%%##*+*****++*#######+=+*****=---++++++#%#***##%@@@@@@@%%*-</text>
+<text class="r" x="10" y="442" textLength="350" lengthAdjust="spacing" style="animation-delay:2.65s">   -+##%%%%######%%##*+*+++==-=+++++=---=++++*#%#*##%%@%%%%@@@%%*-.</text>
+<text class="r" x="10" y="450" textLength="350" lengthAdjust="spacing" style="animation-delay:2.70s">  .-+#%%%%%@@%%%%@@@@%#*====--=+=**++=--=++++###**#%###**#%%%%%#+-</text>
+<text class="r" x="10" y="458" textLength="350" lengthAdjust="spacing" style="animation-delay:2.75s">  .-+#%%%%%@@@@%%%%%%%%%*+++====++++==---+**#%%##*****++*######*+:</text>
+<text class="r" x="10" y="466" textLength="350" lengthAdjust="spacing" style="animation-delay:2.80s">  :=*##%%%%%%%%%%%%%####%#*++++++++===--=++*###*******++*#%####**-</text>
+<text class="r" x="10" y="474" textLength="350" lengthAdjust="spacing" style="animation-delay:2.85s">  :+**#######%%%%%%%##**###*****++======***##***+*****++*%%%##**+-.</text>
+<text class="r" x="10" y="482" textLength="350" lengthAdjust="spacing" style="animation-delay:2.90s">  -+*********#%%%%%#*********++++=====--+*************+*%@@%##***=.</text>
+<text class="r" x="10" y="490" textLength="350" lengthAdjust="spacing" style="animation-delay:2.95s">  -+**********#*###***+++++++++++=--==---+*++*+*++**###%@@@@%%##*=:</text>
+<text class="r" x="10" y="498" textLength="350" lengthAdjust="spacing" style="animation-delay:3.00s"> .=**#**##*+++++**+++++=+++====+==-===-=+**++++*++**##%@@@@@@%%##+-</text>
+</svg>
