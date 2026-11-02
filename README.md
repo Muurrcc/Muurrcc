@@ -6,8 +6,8 @@
 
 <table>
 <tr>
-<td valign="top"><img src="assets/portrait.svg" alt="ASCII portrait" width="476"></td>
-<td valign="top"><img src="assets/card.svg" alt="About me" width="359"></td>
+<td valign="top"><img src="assets/portrait-933d0e6f.svg" alt="ASCII portrait" width="476"></td>
+<td valign="top"><img src="assets/card-d02eef95.svg" alt="About me" width="359"></td>
 </tr>
 </table>
 
