@@ -31,13 +31,17 @@ v = np.where(f > 0.5, np.maximum(lum, 0.12), np.where(f > 0.12, 0.2, 0.0))
 W, H = COLS * CW + 20, rows * LH + 20
 lines = []
 for r in range(rows):
-    s = "".join(RAMP[int(x * (len(RAMP) - 1))] for x in v[r]).rstrip()
-    s = s.replace("&", "&amp;").replace("<", "&lt;")
-    lines.append(f'<text class="r" x="10" y="{10 + (r + 1) * LH}" textLength="{COLS * CW}" lengthAdjust="spacing" '
-                 f'style="animation-delay:{r * 0.05:.2f}s">{s}</text>')
+    chars = [(i, RAMP[int(x * (len(RAMP) - 1))]) for i, x in enumerate(v[r])]
+    chars = [(i, ch) for i, ch in chars if ch != " "]
+    if not chars:
+        continue
+    # one explicit x per glyph: layout can't drift whatever monospace font the viewer falls back to
+    xs = " ".join(f"{10 + i * CW}" for i, _ in chars)
+    t = "".join(ch for _, ch in chars).replace("&", "&amp;").replace("<", "&lt;")
+    lines.append(f'<text class="r" x="{xs}" y="{10 + (r + 1) * LH}" style="animation-delay:{r * 0.05:.2f}s">{t}</text>')
 svg = f'''<svg xmlns="http://www.w3.org/2000/svg" width="{W}" height="{H}" viewBox="0 0 {W} {H}">
 <style>
-.r{{font:{FS}px ui-monospace,Menlo,monospace;fill:#8b949e;white-space:pre;clip-path:inset(0 100% 0 0);animation:w .9s ease-out forwards}}
+.r{{font:{FS}px ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace;fill:#8b949e;clip-path:inset(0 100% 0 0);animation:w .9s ease-out forwards}}
 @keyframes w{{to{{clip-path:inset(0 0 0 0)}}}}
 @media (prefers-reduced-motion:reduce){{.r{{animation:none;clip-path:none}}}}
 </style>
