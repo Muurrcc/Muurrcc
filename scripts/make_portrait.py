@@ -3,8 +3,8 @@ import cv2, numpy as np
 from PIL import Image, ImageDraw, ImageFont
 
 SRC, OUT = "assets/cat.webp", "assets/portrait.svg"
-COLS, CW, LH, FS = 84, 5, 8, 8.4
-RAMP = " .:-=+*#%@"
+COLS, CW, LH, FS = 88, 5, 8, 8.4
+RAMP = " .,:;i1tfLCG08@"
 
 im = Image.open(SRC).convert("RGBA")
 a = np.asarray(im)[..., 3]
@@ -16,13 +16,17 @@ ys, xs = np.where(a > 128)
 x0, x1, y0, y1 = xs.min(), xs.max(), ys.min(), ys.max()
 y1 = y0 + int((y1 - y0) * 0.92)                    # drop the bottom of the chest
 gray, a = gray[y0:y1, x0:x1], a[y0:y1, x0:x1]
-gray = cv2.createCLAHE(clipLimit=2.0, tileGridSize=(4, 4)).apply(gray)
+gray = cv2.createCLAHE(clipLimit=3.5, tileGridSize=(8, 8)).apply(gray)
 
 rows = round(COLS * gray.shape[0] / gray.shape[1] * (CW / LH))
 sm = lambda m: cv2.resize(m, (COLS, rows), interpolation=cv2.INTER_AREA).astype(float) / 255
 g, f = sm(gray), sm(a)
-ink = np.clip((1 - g - 0.22) / 0.6, 0, 1) ** 1.0   # dark = dense: eyes, nose, stripes, whiskers
-v = np.where(f > 0.5, np.maximum(ink, 0.08), np.where(f > 0.12, 0.3, 0.0))  # light edge outlines the white chest
+# bright = dense, like the photo seen on a dark page; pure white fur stays readable via a floor
+lo, hi = np.percentile(g[f > 0.5], [3, 97])
+lum = np.clip((g - lo) / (hi - lo), 0, 1) ** 1.9
+e = sm(cv2.Canny(cv2.resize(gray, (COLS * 4, rows * 4)).astype(np.uint8), 60, 160) if False else cv2.resize(cv2.Canny(gray, 60, 160), (COLS, rows), interpolation=cv2.INTER_AREA))
+lum = np.clip(lum - e * 0.9, 0, 1)  # edges (eyes, nose, mouth, ear rims) cut dark lines into the fur
+v = np.where(f > 0.5, np.maximum(lum, 0.1), np.where(f > 0.12, 0.2, 0.0))
 
 W, H = COLS * CW + 20, rows * LH + 20
 lines = []
@@ -42,7 +46,7 @@ svg = f'''<svg xmlns="http://www.w3.org/2000/svg" width="{W}" height="{H}" viewB
 </svg>'''
 open(OUT, "w").write(svg)
 
-S = 2  # static PNG preview
+S = 1  # static PNG preview
 pv = Image.new("RGB", (W * S, H * S), "#0d1117"); d = ImageDraw.Draw(pv)
 font = ImageFont.truetype("/System/Library/Fonts/Menlo.ttc", int(FS * S))
 for r in range(rows):
