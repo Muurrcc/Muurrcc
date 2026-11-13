@@ -1845,6 +1845,11 @@
    "date": "2026-11-12",
    "level": 0,
    "count": 0
+  },
+  {
+   "date": "2026-11-13",
+   "level": 0,
+   "count": 0
   }
  ],
  "total": 117,
@@ -1854,5 +1859,5 @@
   "count": 37
  },
  "longest_streak": 4,
- "current_streak": 1
+ "current_streak": 0
 }
