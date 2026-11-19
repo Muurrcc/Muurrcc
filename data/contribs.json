@@ -1838,11 +1838,16 @@
   },
   {
    "date": "2026-11-18",
-   "level": 2,
-   "count": 3
+   "level": 3,
+   "count": 5
+  },
+  {
+   "date": "2026-11-19",
+   "level": 0,
+   "count": 0
   }
  ],
- "total": 126,
+ "total": 128,
  "best": {
   "date": "2026-09-04",
   "level": 4,
